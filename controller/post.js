@@ -1,3 +1,5 @@
+const createError = require("http-errors");
+
 const post = [
   {
     id: 1,
@@ -6,6 +8,16 @@ const post = [
   },
 ];
 
-exports.getAllPost = (req, res) => {
+exports.getAllPost = (req, res, next) => {
   res.json(post);
+};
+
+exports.getPost = (req, res, next) => {
+  const foundPost = post.find(
+    (element) => element.id === Number(req.params.id)
+  );
+  if (!foundPost) {
+    return next(createError(404, "Not Found"));
+  }
+  res.json(foundPost);
 };
