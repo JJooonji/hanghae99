@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1660098083661" clover="3.2.0">
-  <project timestamp="1660098083662" name="All files">
-    <metrics statements="23" coveredstatements="23" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2" elements="27" coveredelements="27" complexity="0" loc="23" ncloc="23" packages="3" files="3" classes="3"/>
+<coverage generated="1660098484999" clover="3.2.0">
+  <project timestamp="1660098485000" name="All files">
+    <metrics statements="23" coveredstatements="23" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2" elements="27" coveredelements="26" complexity="0" loc="23" ncloc="23" packages="3" files="3" classes="3"/>
     <package name="hanghae99">
-      <metrics statements="15" coveredstatements="15" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <metrics statements="15" coveredstatements="15" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
       <file name="app.js" path="C:\Users\korew\Desktop\JJooonji\node.js_Study\hanghae99\app.js">
-        <metrics statements="15" coveredstatements="15" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <metrics statements="15" coveredstatements="15" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
@@ -18,7 +18,7 @@
         <line num="10" count="1" type="stmt"/>
         <line num="11" count="1" type="stmt"/>
         <line num="17" count="1" type="stmt"/>
-        <line num="19" count="1" type="cond" truecount="2" falsecount="0"/>
+        <line num="19" count="1" type="cond" truecount="1" falsecount="1"/>
         <line num="20" count="1" type="stmt"/>
         <line num="23" count="1" type="stmt"/>
       </file>
