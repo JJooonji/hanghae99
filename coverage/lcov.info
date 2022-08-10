@@ -27,7 +27,7 @@ BRF:2
 BRH:1
 end_of_record
 TN:
-SF:controller/post.js
+SF:controller\post.js
 FN:11,(anonymous_0)
 FN:15,(anonymous_1)
 FN:17,(anonymous_2)
@@ -54,7 +54,7 @@ BRF:2
 BRH:1
 end_of_record
 TN:
-SF:route/route.js
+SF:route\route.js
 FNF:0
 FNH:0
 DA:1,1
