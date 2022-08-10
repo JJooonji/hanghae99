@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1660097792792" clover="3.2.0">
-  <project timestamp="1660097792792" name="All files">
+<coverage generated="1660098522681" clover="3.2.0">
+  <project timestamp="1660098522681" name="All files">
     <metrics statements="23" coveredstatements="23" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2" elements="27" coveredelements="26" complexity="0" loc="23" ncloc="23" packages="3" files="3" classes="3"/>
     <package name="hanghae99">
       <metrics statements="15" coveredstatements="15" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
