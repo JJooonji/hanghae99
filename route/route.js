@@ -10,4 +10,5 @@ const post = require("../controller/post");
 // ];
 
 router.get("/", post.getAllPost);
+router.get("/:id", post.getPost);
 module.exports = router;
